@@ -1,0 +1,5 @@
+.vagrant/
+*.log
+*.zip
+*.tar
+wordpress/wp-content/uploads/
